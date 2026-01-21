@@ -1,0 +1,8 @@
+{
+  "name": "InfluencerPlatform MENA",
+  "description": "A high-end creator marketplace for the MENA region featuring audience auditing, AI-powered tools, and secure collaboration features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
